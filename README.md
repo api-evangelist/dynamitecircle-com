@@ -1,4 +1,4 @@
-# dynamitecircle-com
+# Dynamite Circle
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,112 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-dynamitecircle-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://dynamitecircle.com/
+Dynamite Circle is a curated community of over 1,400 location‑independent entrepreneurs running profitable businesses worldwide. Founded in 2011, it connects founders across the globe through international events in Bangkok and Mexico, local meetups in 40+ cities, and an online platform that fosters collaboration, mentorship, and growth for location‑independent ventures.
+
+**Areas:** Community · Entrepreneurs · Networking · Events · RemoteWork · Company
+
+## Dynamite Circle on APIs.io
+
+Everything profiled for Dynamite Circle is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/dynamitecircle-com/](https://apis.io/providers/dynamitecircle-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (22)
+
+- [Dynamite Circle Alerts API](https://apis.io/apis/dynamitecircle-com/dynamitecircle-com-alerts-api/) — The Alerts API from Dynamite Circle — 2 operation(s) for alerts.
+- [Dynamite Circle Announcements API](https://apis.io/apis/dynamitecircle-com/dynamitecircle-com-announcements-api/) — The Announcements API from Dynamite Circle — 2 operation(s) for announcements.
+- [Dynamite Circle Calendar API](https://apis.io/apis/dynamitecircle-com/dynamitecircle-com-calendar-api/) — The Calendar API from Dynamite Circle — 1 operation(s) for calendar.
+- [Dynamite Circle Chapters API](https://apis.io/apis/dynamitecircle-com/dynamitecircle-com-chapters-api/) — The Chapters API from Dynamite Circle — 2 operation(s) for chapters.
+- [Dynamite Circle Discovery API](https://apis.io/apis/dynamitecircle-com/dynamitecircle-com-discovery-api/) — The Discovery API from Dynamite Circle — 1 operation(s) for discovery.
+- [Dynamite Circle Events API](https://apis.io/apis/dynamitecircle-com/dynamitecircle-com-events-api/) — The Events API from Dynamite Circle — 15 operation(s) for events.
+- [Dynamite Circle Follows API](https://apis.io/apis/dynamitecircle-com/dynamitecircle-com-follows-api/) — The Follows API from Dynamite Circle — 4 operation(s) for follows.
+- [Dynamite Circle Inbox API](https://apis.io/apis/dynamitecircle-com/dynamitecircle-com-inbox-api/) — The Inbox API from Dynamite Circle — 1 operation(s) for inbox.
+- [Dynamite Circle Interests API](https://apis.io/apis/dynamitecircle-com/dynamitecircle-com-interests-api/) — The Interests API from Dynamite Circle — 1 operation(s) for interests.
+- [Dynamite Circle Invites API](https://apis.io/apis/dynamitecircle-com/dynamitecircle-com-invites-api/) — The Invites API from Dynamite Circle — 2 operation(s) for invites.
+- [Dynamite Circle Issues API](https://apis.io/apis/dynamitecircle-com/dynamitecircle-com-issues-api/) — The Issues API from Dynamite Circle — 1 operation(s) for issues.
+- [Dynamite Circle Limits API](https://apis.io/apis/dynamitecircle-com/dynamitecircle-com-limits-api/) — The Limits API from Dynamite Circle — 1 operation(s) for limits.
+- [Dynamite Circle Live Calls API](https://apis.io/apis/dynamitecircle-com/dynamitecircle-com-live-calls-api/) — The Live Calls API from Dynamite Circle — 4 operation(s) for live calls.
+- [Dynamite Circle Locator API](https://apis.io/apis/dynamitecircle-com/dynamitecircle-com-locator-api/) — The Locator API from Dynamite Circle — 2 operation(s) for locator.
+- [Dynamite Circle Membership API](https://apis.io/apis/dynamitecircle-com/dynamitecircle-com-membership-api/) — The Membership API from Dynamite Circle — 2 operation(s) for membership.
+- [Dynamite Circle Notifications API](https://apis.io/apis/dynamitecircle-com/dynamitecircle-com-notifications-api/) — The Notifications API from Dynamite Circle — 1 operation(s) for notifications.
+- [Dynamite Circle Places API](https://apis.io/apis/dynamitecircle-com/dynamitecircle-com-places-api/) — The Places API from Dynamite Circle — 2 operation(s) for places.
+- [Dynamite Circle Profile API](https://apis.io/apis/dynamitecircle-com/dynamitecircle-com-profile-api/) — The Profile API from Dynamite Circle — 3 operation(s) for profile.
+- [Dynamite Circle Rooms API](https://apis.io/apis/dynamitecircle-com/dynamitecircle-com-rooms-api/) — The Rooms API from Dynamite Circle — 17 operation(s) for rooms.
+- [Dynamite Circle Search API](https://apis.io/apis/dynamitecircle-com/dynamitecircle-com-search-api/) — The Search API from Dynamite Circle — 6 operation(s) for search.
+- [Dynamite Circle Tickets API](https://apis.io/apis/dynamitecircle-com/dynamitecircle-com-tickets-api/) — The Tickets API from Dynamite Circle — 1 operation(s) for tickets.
+- [Dynamite Circle Trips API](https://apis.io/apis/dynamitecircle-com/dynamitecircle-com-trips-api/) — The Trips API from Dynamite Circle — 6 operation(s) for trips.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Dynamitecircle Com Domain Security](https://apis.io/security/dynamitecircle-com/dynamitecircle-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://dynamitecircle.com/)
+- [API reference](https://dynamitecircle.com/developers/)
+- [Blog](https://dynamitecircle.com/blog/)
+- [Terms of service](https://dynamitecircle.com/terms-of-service/)
+- [Privacy policy](https://dynamitecircle.com/privacy-policy/)
+- [GitHub](https://github.com/dynamitecircle)
+
+## API Evangelist rating
+
+**Kin Score 31.8** — thin · rubric 0.27.0 · scored 2026-11-06
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 49.6 |
+| Contract governance | 0.0 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 16.0 |
+| Access clarity | 34.2 |
+
+**Agent readiness 44.4** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | paginated |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 19.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/dynamitecircle-com/](https://apis.io/providers/dynamitecircle-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Dynamite Circle: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/dynamitecircle-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
